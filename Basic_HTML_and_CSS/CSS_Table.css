@@ -1,0 +1,18 @@
+table{
+	border: 1px solid lightslategrey;
+}
+
+td:hover{
+	background-color:linen;
+	color:darkslateblue;
+}
+
+tr,th{
+	background-color:black;
+	color:red;
+}
+
+tr,td{
+	background-color:darkgrey;
+	color:snow;
+}
